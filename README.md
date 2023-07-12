@@ -17,6 +17,11 @@ In this repository, i developed a bioinformatics tool called *"GMI-PAN"*, under 
 1. NHMMER 3.3.2
 1. bcbio-gff 0.6.9
 
+## Colaborations
+
+### Antimicrobial resistance, pathogenic potential and genomic features of carbapenem-resistant Klebsiella pneumoniae isolated in Chile: high-risk ST25 clones and novel mobile elements
+In this study *GMI-PAN* was used as an annotation tool for the analyses of plasmids encoding carbapenemases and other resistance determinants. https://doi.org/10.1101/2022.11.28.517876
+
 ## Special thanks!
 
 *GMI-PAN* is based in annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their contribution and please visit their work!
@@ -29,7 +34,7 @@ In this repository, i developed a bioinformatics tool called *"GMI-PAN"*, under 
 1. *PhageBoost*: https://github.com/ku-cbd/PhageBoost
 1. *NHMMER*: https://github.com/EddyRivasLab/hmmer
 
-This is still an early phase of development software and i'm taking my first dive into open-software/hardware so please be patient with my lack of etiquette. Files appended here are products and evidence of a first functional iteration of *GMI-PAN* that is part of my thesis to obtain the professional academic grade in the Molecular Biotechnology Engineer career.
+This is still an early phase of development software and i'm taking my first dive into open-software/hardware so please be patient with my lack of etiquette. Files appended here are products and evidence of a first functional iteration of *GMI-PAN* that is part of my thesis to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work in this.
 
 ## Author
 
