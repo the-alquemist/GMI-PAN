@@ -1,0 +1,51 @@
+Plasmid	Quality	MCPN	Region	HGC	FMCP#	EVP	Notes			
+pVA04-6	-	-	-	-	-	-				
+pVA04-46	-	-	-	-	-	-				
+pVA04-58	INTACT	PHAGE_Escher_RCS47_NC_042128	5904-37318	6	3	"Tail, Head"	*Plasmid			
+pVA04-196	INTACT	PHAGE_Escher_RCS47_NC_042128	68617-113612	4	4	Capsid	*Plasmid			
+pVA32-7	-	-	-	-	-	-				
+pVA32-58	-	-	-	-	-	-				
+pVA32-74	-	-	-	-	-	-				
+pVA32-104	QUESTIONABLE	﻿PHAGE_Stx2_II_NC_004914)	33030-42853	2	2	Capsid				
+pVA32-200	-	-	-	-	-	-				
+pVA126-12	-	-	-	-	-	-				
+pVA126-42	INTACT	PHAGE_Salmon_SJ46_NC_031129	2059-36470	6	2	"Tail, Head"	*Plasmid			
+pVA126-68	QUESTIONABLE	PHAGE_Staphy_SPbeta_like_NC_029119	417-25023	2	4	-	*Plasmid			
+pVA126-175	INTACT	PHAGE_Escher_RCS47_NC_042128	41599-88718	4	5	Capsid	*Plasmid			
+PHVA126-339	INTACT	"PHAGE_Salmon_118970_sal3_NC_031940
+PHAGE_Escher_HK639_NC_016158"	87270-142180 ; 176924-229240 	14;12	10; 12	"Tail, Head; Tail, Head, Capsid, Coat"	*Possible circularized phage			﻿
+pVA172-67	-	-	-	-	-	-				
+pVA172-90	QUESTIONABLE	﻿PHAGE_Escher_RCS47_NC_042128)	﻿35930-56857 	6	2	Tail				
+pVA564-33	-	-	-	-	-	-				
+pVA564-37	INTACT	PHAGE_Salmon_SJ46_NC_031129	9353-35739	6	3	"Tail, Head"	*Plasmid	﻿		
+pVA564-63	-	-	-	-	-	-				
+pVA564-179	INTACT	PHAGE_Escher_RCS47_NC_042128	67826-97544	3	9	"Capsid, Tail"	*Plasmid	﻿		
+pVA569-6	-	-	-	-	-	-				
+pVA569-7	-	-	-	-	-	-				
+pVA569-35	QUESTIONABLE	﻿PHAGE_Escher_RCS47_NC_042128)	﻿11996-26573	4	2	Tail				
+pVA569-78	-	-	-	-	-	-				
+pVA591-7	-	-	-	-	-	-				
+pVA591-9	-	-	-	-	-	-				
+pVA591-46	-	-	-	-	-	-				
+pVA591-160	QUESTIONABLE	PHAGE_Escher_RCS47_NC_042128	40581-74037	10	10	Tail	*Plasmid	﻿		
+pVA681-5	-	-	-	-	-	-				
+pVA681-14	-	-	-	-	-	-				
+pVA681-36	-	-	-	-	-	-				
+pVA681-58	-	-	-	-	-	-				
+pVA681-191	-	-	-	-	-	-				
+pVA684-2	-	-	-	-	-	-				
+pVA684-6	-	-	-	-	-	-				
+pVA684-8	-	-	-	-	-	-				
+pVA684-49	-	-	-	-	-	-				
+pVA684-146	-	-	-	-	-	-				
+pVA684-388	QUESTIONABLE	"PHAGE_Shigel_SfIV_NC_022749﻿
+PHAGE_Escher_RCS47_NC_042128﻿
+PHAGE_Entero_P1_NC_005856"	75602-87336; 194481-205318; 228758-245550	2;2;5	2;3;2	Tail;Tail;Tail	*Plasmid			
+pVA833-7	-	-	-	-	-	-				
+pVA833-92	INTACT	﻿PHAGE_Escher_RCS47_NC_042128)	﻿1774-36889 	3	2	Capsid				
+pVA833-165	-	-	-	-	-	-				
+pVA833-176k	QUESTIONABLE	﻿PHAGE_Escher_RCS47_NC_042128)	﻿54973-69396	3	2	Tail				
+pVA833-176k	INTACT	﻿PHAGE_Staphy_SPbeta_like_NC_029119)	﻿63183-98648	2	4	-				
+										
+		*Incomplete matches were not included*								
+		*"PH" --> Phage leyend*								

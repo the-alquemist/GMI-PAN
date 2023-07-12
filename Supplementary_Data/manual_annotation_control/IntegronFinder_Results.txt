@@ -1,0 +1,173 @@
+Plasmid	ID_integron	ID_replicon	element	pos_beg	pos_end	strand	evalue	type_elt	annotation	model	type	default	distance_2attC	considered_topology
+cVA04	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA126	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA172	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA32	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA564	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA569	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA591	integron_01	VA591_chromosome	VA591_chromosome_3923	4209475	4210023	-1	3.8e-37	protein	Chlor_Acetyltrans_CAT	RF0050	CALIN	No	NA	-
+cVA591	integron_01	VA591_chromosome	attc_001	4210052	4210141	-1	0.00099	attC	attC	attc_4	CALIN	No	NA	-
+cVA591	integron_01	VA591_chromosome	VA591_chromosome_3924	4210161	4210991	-1	9.7e-84	protein	ClassD	RF0056	CALIN	No	NA	-
+cVA591	integron_01	VA591_chromosome	attc_002	4211056	4211127	-1	0.00054	attC	attC	attc_4	CALIN	No	915.0	-
+cVA591	integron_01	VA591_chromosome	VA591_chromosome_3925	4211122	4211721	-1	8.3e-129	protein	AAC6-Ib	RF0005	CALIN	No	NA	-
+cVA591	integron_02	VA591_chromosome	VA591_chromosome_3935	4221806	4222819	-1	4.6e-23	protein	intI	intersection_tyr_intI	In0	No	NA	-
+cVA681	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA684	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+cVA833	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA04-196	integron_01	2	2_76	68524	69072	-1	1.70E-22	protein	Chlor_Acetyltrans_CAT	RF0050	CALIN	No	NA	circ
+pVA04-196	integron_01	2	attc_001	69101	69190	-1	3.6e-05	attC	attC	attc_4	CALIN	No	NA	circ
+pVA04-196	integron_01	2	2_77	69210	70085	-1	5.70E-70	protein	ClassD	RF0056	CALIN	No	NA	circ
+pVA04-196	integron_01	2	attc_002	70105	70176	-1	2.00E-05	attC	attC	attc_4	CALIN	No	915.0	circ
+pVA04-196	integron_01	2	2_78	70171	70770	-1	3.70E-114	protein	AAC6-Ib	RF0005	CALIN	No	NA	circ
+pVA04-196	integron_02	2	2_121	106561	107574	-1	2.00E-08	protein	intI	intersection_tyr_intI	complete	No	NA	circ
+pVA04-196	integron_02	2	2_122	107730	108203	1	NA	protein	protein	NA	complete	No	NA	circ
+pVA04-196	integron_02	2	attc_001	108198	108283	1	0.15	attC	attC	attc_4	complete	No	NA	circ
+pVA04-196	integron_02	2	2_123	108370	108654	-1	NA	protein	protein	NA	complete	No	NA	circ
+pVA04-46	-	4	-	-	-	-	-	-	-	-	-	-	-	-
+pVA04-58	integron_01	3	3_37	27073	27309	-1	NA	protein	protein	NA	CALIN	No	NA	circ
+pVA04-58	integron_01	3	attc_001	27326	27439	1	0.0029	attC	attC	attc_4	CALIN	No	NA	circ
+pVA04-58	integron_01	3	3_38	27640	28356	1	1.90E-91	protein	Chlor_Efflux_Pump	RF0051	CALIN	No	NA	circ
+pVA04-58	integron_01	3	3_39	28359	28505	1	NA	protein	protein	NA	CALIN	No	NA	circ
+pVA04-58	integron_01	3	3_40	28493	29032	1	NA	protein	protein	NA	CALIN	No	NA	circ
+pVA04-58	integron_01	3	attc_002	28913	28982	1	7.1e-09	attC	attC	attc_4	CALIN	No	1474.0	circ
+pVA04-58	integron_01	3	3_41	29157	29546	1	NA	protein	protein	NA	CALIN	No	NA	circ
+pVA04-58	integron_02	3	3_57	41393	42352	-1	6.1e-25	protein	intI	intersection_tyr_intI	complete	No	NA	circ
+pVA04-58	integron_02	3	3_58	42525	42977	1	NA	protein	protein	NA	complete	No	NA	circ
+pVA04-58	integron_02	3	attc_001	42984	43097	1	0.0029	attC	attC	attc_4	complete	No	NA	circ
+pVA04-58	integron_02	3	3_59	43298	44557	1	2.90E-166	protein	Chlor_Efflux_Pump	RF0051	complete	No	NA	circ
+pVA04-58	integron_02	3	3_60	44508	44696	1	NA	protein	protein	NA	complete	No	NA	circ
+pVA04-58	integron_02	3	attc_002	44577	44646	1	7.1e-09	attC	attC	attc_4	complete	No	1480.0	circ
+pVA04-58	integron_02	3	3_61	44822	45622	1	1.20E-88	protein	ClassD	RF0056	complete	No	NA	circ
+pVA04-6	-	5	-	-	-	-	-	-	-	-	-	-	-	-
+pVA126-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA126-175	integron_01	3	3_99	86284	87297	-1	1.8e-24	protein	intI	intersection_tyr_intI	complete	No	NA	circ
+pVA126-175	integron_01	3	3_100	87453	87926	1	NA	protein	protein	NA	complete	No	NA	circ
+pVA126-175	integron_01	3	attc_001	87921	88006	1	0.13	attC	attC	attc_4	complete	No	NA	circ
+pVA126-175	integron_01	3	3_101	88093	88377	-1	NA	protein	protein	NA	complete	No	NA	circ
+pVA126-339	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA126-42	integron_01	5	5_13	12552	13352	-1	7.60E-90	protein	ClassD	RF0056	complete	No	NA	circ
+pVA126-42	integron_01	5	attc_001	13528	13597	-1	5.1e-09	attC	attC	attc_4	complete	No	NA	circ
+pVA126-42	integron_01	5	5_14	13617	14876	-1	1.80E-165	protein	Chlor_Efflux_Pump	RF0051	complete	No	NA	circ
+pVA126-42	integron_01	5	attc_002	15077	15190	-1	0.0021	attC	attC	attc_4	complete	No	1480.0	circ
+pVA126-42	integron_01	5	5_15	15197	15649	-1	NA	protein	protein	NA	complete	No	NA	circ
+pVA126-42	integron_01	5	5_16	15822	16781	1	3.80E-09	protein	intI	intersection_tyr_intI	complete	No	NA	circ
+pVA126-68	integron_01	4	4_10	9930	10529	1	1.40E-114	protein	AAC6-Ib	RF0005	CALIN	No	NA	circ
+pVA126-68	integron_01	4	attc_001	10524	10595	1	6.8e-06	attC	attC	attc_4	CALIN	No	NA	circ
+pVA126-68	integron_01	4	4_11	10615	11490	1	2.10E-69	protein	ClassD	RF0056	CALIN	No	NA	circ
+pVA126-68	integron_01	4	attc_002	11510	11599	1	1.2e-05	attC	attC	attc_4	CALIN	No	915.0	circ
+pVA126-68	integron_01	4	4_12	11628	12176	1	6.3e-39	protein	Chlor_Acetyltrans_CAT	RF0050	CALIN	No	NA	circ
+pVA172-67	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA172-90	integron_01	pVA172-90	pVA172-90_4	2486	3499	-1	9.50E-25	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA172-90	integron_01	pVA172-90	pVA172-90_5	3746	4345	1	1.70E-130	protein	AAC6-Ib	RF0005	complete	No	NA	
+pVA172-90	integron_01	pVA172-90	attc_001	4340	4411	1	6.00E-07	attC	attC	attc_4	complete	No	NA	
+pVA172-90	integron_01	pVA172-90	pVA172-90_6	4442	4894	1	NA	protein	protein	NA	complete	No	NA	
+pVA172-90	integron_01	pVA172-90	attc_002	4901	5014	1	6.30E-05	attC	attC	attc_4	complete	No	490	
+pVA172-90	integron_01	pVA172-90	pVA172-90_7	5027	5500	1	NA	protein	protein	NA	complete	No	NA	
+pVA172-90	integron_01	pVA172-90	pVA172-90_8	5681	6526	1	5.40E-150	protein	ANT3	RF0027	complete	No	NA	
+pVA172-90	integron_01	pVA172-90	attc_003	6481	6540	1	3.00E-08	attC	attC	attc_4	complete	No	1467	
+pVA172-90	integron_01	pVA172-90	pVA172-90_9	6643	6990	1	2.00E-30	protein	emrE	RF0066	complete	No	NA	
+pVA32-104	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA32-200	integron_01	pVA32-200	pVA32-200_101	92640	93239	1	3.7e-130	protein	AAC6-Ib	RF0005	CALIN	No	NA	
+pVA32-200	integron_01	pVA32-200	attc_001	93234	93305	1	2.00E-05	attC	attC	attc_4	CALIN	No	NA	
+pVA32-200	integron_01	pVA32-200	pVA32-200_102	93325	94200	1	5.6e-85	protein	ClassD	RF0056	CALIN	No	NA	
+pVA32-200	integron_01	pVA32-200	attc_002	94220	94309	1	3.7e-05	attC	attC	attc_4	CALIN	No	915.0	
+pVA32-200	integron_01	pVA32-200	pVA32-200_103	94338	94886	1	1.7e-38	protein	Chlor_Acetyltrans_CAT	RF0050	CALIN	No	NA	
+pVA32-200	integron_02	pVA32-200	pVA32-200_114	104689	105702	-1	2.00E-24	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA32-200	integron_02	pVA32-200	pVA32-200_115	105847	106344	1	NA	protein	protein	NA	complete	No	NA	
+pVA32-200	integron_02	pVA32-200	attc_001	106339	106428	1	0.00011999999999999999	attC	attC	attc_4	complete	No	NA	
+pVA32-200	integron_02	pVA32-200	attc_002	106689	106748	1	4.4e-06	attC	attC	attc_4	complete	No	261.0	
+pVA32-200	integron_02	pVA32-200	pVA32-200_116	106764	107543	1	4.1e-166	protein	ANT3	RF0027	complete	No	NA	
+pVA32-200	integron_02	pVA32-200	attc_003	107545	107604	1	6.4e-09	attC	attC	attc_4	complete	No	797.0	
+pVA32-200	integron_02	pVA32-200	pVA32-200_117	107707	108054	1	4.3e-30	protein	emrE	RF0066	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	pVA32-58_4	3436	4449	-1	6.4e-25	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	pVA32-58_5	4696	5295	1	1.2e-130	protein	AAC6-Ib	RF0005	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	attc_001	5290	5361	1	3.9e-07	attC	attC	attc_4	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	pVA32-58_6	5392	5844	1	NA	protein	protein	NA	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	attc_002	5851	5964	1	4.1e-05	attC	attC	attc_4	complete	No	490.0	
+pVA32-58	integron_01	pVA32-58	pVA32-58_7	5977	6450	1	NA	protein	protein	NA	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	pVA32-58_8	6631	7476	1	3.7e-150	protein	ANT3	RF0027	complete	No	NA	
+pVA32-58	integron_01	pVA32-58	attc_003	7431	7490	1	1.90E+08	attC	attC	attc_4	complete	No	1467.0	
+pVA32-58	integron_01	pVA32-58	pVA32-58_9	7593	7940	1	1.4e-30	protein	emrE	RF0066	complete	No	NA	
+pVA32-7	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA32-74	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA564-179	integron_01	pVA564-179	pVA564-179_85	78100	78648	-1	1.5e-38	protein	Chlor_Acetyltrans_CAT	RF0050	complete	No	NA	circ
+pVA564-179	integron_01	pVA564-179	attc_001	78677	78766	-1	3.3e-05	attC	attC	attc_4	complete	No	NA	circ
+pVA564-179	integron_01	pVA564-179	pVA564-179_86	78786	79661	-1	5.00E-85	protein	ClassD	RF0056	complete	No	NA	circ
+pVA564-179	integron_01	pVA564-179	attc_002	79681	79752	-1	1.8e-05	attC	attC	attc_4	complete	No	915.0	circ
+pVA564-179	integron_01	pVA564-179	pVA564-179_87	79747	80346	-1	3.3e-130	protein	AAC6-Ib	RF0005	complete	No	NA	circ
+pVA564-179	integron_01	pVA564-179	pVA564-179_88	80445	81149	-1	NA	protein	protein	NA	complete	No	NA	circ
+pVA564-179	integron_01	pVA564-179	pVA564-179_89	81695	82708	-1	1.8e-24	protein	intI	intersection_tyr_intI	complete	No	NA	circ
+pVA564-33	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA564-37	integron_01	pVA564-37	pVA564-37_19	15014	15814	-1	6.8e-105	protein	ClassD	RF0056	complete	No	NA	circ
+pVA564-37	integron_01	pVA564-37	attc_001	15990	16059	-1	4.6e-09	attC	attC	attc_4	complete	No	NA	circ
+pVA564-37	integron_01	pVA564-37	pVA564-37_20	16079	17338	-1	1.6e-181	protein	Chlor_Efflux_Pump	RF0051	complete	No	NA	circ
+pVA564-37	integron_01	pVA564-37	attc_002	17539	17652	-1	0.0019	attC	attC	attc_4	complete	No	1480.0	circ
+pVA564-37	integron_01	pVA564-37	pVA564-37_21	17659	18111	-1	NA	protein	protein	NA	complete	No	NA	circ
+pVA564-37	integron_01	pVA564-37	pVA564-37_22	18284	19243	1	3.4e-25	protein	intI	intersection_tyr_intI	complete	No	NA	circ
+pVA564-63	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA569-35	integron_01	pVA569-35	pVA569-35_33	29531	30490	-1	3.30E-25	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA569-35	integron_01	pVA569-35	pVA569-35_34	30663	31115	1	NA	protein	protein	NA	complete	No	NA	
+pVA569-35	integron_01	pVA569-35	attc_001	31122	31235	1	0.0018	attC	attC	attc_4	complete	No	NA	
+pVA569-35	integron_01	pVA569-35	pVA569-35_35	31436	32695	1	1.60E-181	protein	Chlor_Efflux_Pump	RF0051	complete	No	NA	
+pVA569-35	integron_01	pVA569-35	attc_002	32715	32784	1	4.40E-09	attC	attC	attc_4	complete	No	1480	
+pVA569-35	integron_01	pVA569-35	pVA569-35_36	32960	33760	1	8.30E-105	protein	ClassD	RF0056	complete	No	NA	
+pVA569-6	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA569-7	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA569-78	integron_01	pVA569-78	pVA569-78_26	21938	22285	-1	1.80E-30	protein	emrE	RF0066	complete	No	NA	
+pVA569-78	integron_01	pVA569-78	attc_001	22388	22444	-1	0.0011	attC	attC	attc_4	complete	No	NA	
+pVA569-78	integron_01	pVA569-78	pVA569-78_27	22491	23279	-1	1.30E-145	protein	ANT3	RF0027	complete	No	NA	
+pVA569-78	integron_01	pVA569-78	attc_002	23283	23415	-1	8.90E-07	attC	attC	attc_4	complete	No	839	
+pVA569-78	integron_01	pVA569-78	pVA569-78_28	23410	24009	-1	NA	protein	protein	NA	complete	No	NA	
+pVA569-78	integron_01	pVA569-78	pVA569-78_29	24041	25054	1	8.60E-25	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA591-160	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA591-46	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA591-7	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA591-9	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA681-14	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA681-191	integron_01	pVA681-191	pVA681-191_86	80331	80930	1	3.4e-130	protein	AAC6-Ib	RF0005	CALIN	No	NA	
+pVA681-191	integron_01	pVA681-191	attc_001	80925	80996	1	1.9e-05	attC	attC	attc_4	CALIN	No	NA	
+pVA681-191	integron_01	pVA681-191	pVA681-191_87	81016	81891	1	5.2e-85	protein	ClassD	RF0056	CALIN	No	NA	
+pVA681-191	integron_01	pVA681-191	attc_002	81911	82000	1	3.5e-05	attC	attC	attc_4	CALIN	No	915.0	
+pVA681-191	integron_01	pVA681-191	pVA681-191_88	82029	82577	1	1.6e-38	protein	Chlor_Acetyltrans_CAT	RF0050	CALIN	No	NA	
+pVA681-191	integron_02	pVA681-191	pVA681-191_102	93318	93665	-1	4.00E-30	protein	emrE	RF0066	complete	No	NA	
+pVA681-191	integron_02	pVA681-191	attc_001	93768	93827	-1	6.1e-09	attC	attC	attc_4	complete	No	NA	
+pVA681-191	integron_02	pVA681-191	pVA681-191_103	93829	94608	-1	3.8e-166	protein	ANT3	RF0027	complete	No	NA	
+pVA681-191	integron_02	pVA681-191	attc_002	94624	94683	-1	4.20E+10	attC	attC	attc_4	complete	No	797.0	
+pVA681-191	integron_02	pVA681-191	attc_003	94944	95033	-1	0.00011999999999999999	attC	attC	attc_4	complete	No	261.0	
+pVA681-191	integron_02	pVA681-191	pVA681-191_104	95028	95525	-1	NA	protein	protein	NA	complete	No	NA	
+pVA681-191	integron_02	pVA681-191	pVA681-191_105	95670	96683	1	1.9e-24	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA681-36	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA681-5	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA681-58	integron_01	pVA681-58	pVA681-58_6	4704	5303	1	1.2e-130	protein	AAC6-Ib	RF0005	CALIN	No	NA	
+pVA681-58	integron_01	pVA681-58	attc_001	5298	5369	1	3.9e-07	attC	attC	attc_4	CALIN	No	NA	
+pVA681-58	integron_01	pVA681-58	pVA681-58_7	5400	5852	1	NA	protein	protein	NA	CALIN	No	NA	
+pVA681-58	integron_01	pVA681-58	attc_002	5859	5972	1	4.1e-05	attC	attC	attc_4	CALIN	No	490.0	
+pVA681-58	integron_01	pVA681-58	pVA681-58_8	5985	6458	1	NA	protein	protein	NA	CALIN	No	NA	
+pVA681-58	integron_01	pVA681-58	pVA681-58_9	6639	7484	1	3.7e-150	protein	ANT3	RF0027	CALIN	No	NA	
+pVA681-58	integron_01	pVA681-58	attc_003	7439	7498	1	1.90E+08	attC	attC	attc_4	CALIN	No	1467.0	
+pVA681-58	integron_01	pVA681-58	pVA681-58_10	7601	7948	1	1.4e-30	protein	emrE	RF0066	CALIN	No	NA	
+pVA684-146	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA684-2	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA684-388	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA684-49	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA684-6	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA684-8	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA833-165	-	-	-	-	-	-	-	-	-	-	-	-	-	
+pVA833-176k	integron_01	pVA833_176k	pVA833_176k_76	69287	70246	-1	1.60E-24	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA833-176k	integron_01	pVA833_176k	pVA833_176k_77	70419	70871	1	NA	protein	protein	NA	complete	No	NA	
+pVA833-176k	integron_01	pVA833_176k	attc_001	70878	70991	1	0.0088	attC	attC	attc_4	complete	No	NA	
+pVA833-176k	integron_01	pVA833_176k	pVA833_176k_78	71192	72451	1	7.80E-181	protein	Chlor_Efflux_Pump	RF0051	complete	No	NA	
+pVA833-176k	integron_01	pVA833_176k	attc_002	72471	72540	1	2.20E+08	attC	attC	attc_4	complete	No	1480	
+pVA833-176k	integron_01	pVA833_176k	pVA833_176k_79	72716	73516	1	3.30E-104	protein	ClassD	RF0056	complete	No	NA	
+pVA833-176k	integron_02	pVA833_176k	pVA833_176k_93	87669	88682	-1	1.80E-24	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA833-176k	integron_02	pVA833_176k	pVA833_176k_94	88838	89311	1	NA	protein	protein	NA	complete	No	NA	
+pVA833-176k	integron_02	pVA833_176k	attc_001	89306	89391	1	0.13	attC	attC	attc_4	complete	No	NA	
+pVA833-176k	integron_02	pVA833_176k	pVA833_176k_95	89478	89762	-1	NA	protein	protein	NA	complete	No	NA	
+pVA833-7	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+pVA833-92	integron_01	pVA833-92	pVA833-92_7	8257	9270	-1	1.00E-24	protein	intI	intersection_tyr_intI	complete	No	NA	
+pVA833-92	integron_01	pVA833-92	pVA833-92_8	9415	9912	1	NA	protein	protein	NA	complete	No	NA	
+pVA833-92	integron_01	pVA833-92	attc_001	9907	9996	1	5.60E+11	attC	attC	attc_4	complete	No	NA	
+pVA833-92	integron_01	pVA833-92	attc_002	10257	10316	1	2.00E-06	attC	attC	attc_4	complete	No	261	
+pVA833-92	integron_01	pVA833-92	pVA833-92_9	10332	11111	1	2.00E-166	protein	ANT3	RF0027	complete	No	NA	
+pVA833-92	integron_01	pVA833-92	attc_003	11113	11172	1	2.90E-09	attC	attC	attc_4	complete	No	797	
+pVA833-92	integron_01	pVA833-92	pVA833-92_10	11275	11622	1	2.20E-30	protein	emrE	RF0066	complete	No	NA	
