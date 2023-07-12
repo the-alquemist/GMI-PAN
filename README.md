@@ -23,8 +23,8 @@ Coming soon...
 
 ## Colaborations
 
-### Antimicrobial resistance, pathogenic potential and genomic features of carbapenem-resistant Klebsiella pneumoniae isolated in Chile: high-risk ST25 clones and novel mobile elements
-In this study *GMI-PAN* was used as an annotation tool for the analyses of plasmids encoding carbapenemases and other resistance determinants. https://doi.org/10.1101/2022.11.28.517876
+### Population genomics, resistance, pathogenic potential, and mobile genetic elements of carbapenem-resistant Klebsiella pneumoniae causing infections in Chile
+In this study *GMI-PAN* was used as an annotation tool for the analyses of plasmids encoding carbapenemases and other resistance determinants. An updated and upgraded version of this paper is coming soon but in the meantime here you have access to its preprint --> https://doi.org/10.1101/2022.11.28.517876
 
 ## Special thanks!
 
