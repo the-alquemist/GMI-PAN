@@ -38,7 +38,7 @@ In this study *GMI-PAN* was used as an annotation tool for the analyses of plasm
 1. *PhageBoost*: https://github.com/ku-cbd/PhageBoost
 1. *NHMMER*: https://github.com/EddyRivasLab/hmmer
 
-This is still an early phase of development software and i'm taking my first dive into open-software/hardware so please be patient with my lack of etiquette. Files appended here are products and evidence of a first functional iteration of *GMI-PAN* that is part of my thesis to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work in this.
+This is still an early phase of development software and i'm taking my first dive into open-software/hardware so please be patient with my lack of etiquette. Files appended here are products and evidence of a first functional iteration of *GMI-PAN* that is part of my thesis to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work on this.
 
 ## Author
 
