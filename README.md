@@ -30,3 +30,8 @@ In this repository, i developed a bioinformatics tool called *"GMI-PAN"*, under 
 1. *NHMMER*: https://github.com/EddyRivasLab/hmmer
 
 This is still an early phase of development software and i'm taking my first dive into open-software/hardware so please be patient with my lack of etiquette. Files appended here are products and evidence of a first functional iteration of *GMI-PAN* that is part of my thesis to obtain the professional academic grade in the Molecular Biotechnology Engineer career.
+
+## Author
+
+- Joaquín Acosta
+- eMAIL: joaquin.acosta@ug.uchile.cl
