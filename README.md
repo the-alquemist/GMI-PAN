@@ -6,6 +6,10 @@ The emergence of antibiotic resistance is a natural occurrence in microorganisms
 
 In this repository, i developed a bioinformatics tool called *"GMI-PAN"*, under the code *"Contannotate"*, for the evaluation and annotation of antibiotic and metal resistance profiles, virulence factors, and mobile genetic elements in assembled nucleotide sequences of prokaryotic nature, optimized for the *Enterobacteriaceae* family. This tool, better known as a wrapper, allows for the automation of an annotation pipeline that integrates various previously developed tools, significantly reducing the time required for work.
 
+## Installation & Usage
+
+Coming soon...
+
 ## Dependencies
 1. Python 3.6.13
 1. PROKKA 1.14.6
