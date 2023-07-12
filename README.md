@@ -8,16 +8,10 @@ This is still a software in an early phase of development and i'm taking my firs
 
 *GMI-PAN* is based in annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their contribution and please visit their work!
 
-*PROKKA*: https://github.com/tseemann/prokka
-
-*RGI*: https://github.com/arpcard/rgi/releases
-
-*I-VIP*: https://github.com/caozhichongchong/I-VIP
-
-*PlasmidFinder*: https://bitbucket.org/genomicepidemiology/plasmidfinder/src/master/
-
-*PlasmidVerify*: https://github.com/ablab/plasmidVerify
-
-*PhageBoost*: https://github.com/ku-cbd/PhageBoost
-
-*NHMMER*: https://github.com/EddyRivasLab/hmmer
+1. *PROKKA*: https://github.com/tseemann/prokka
+1. *RGI*: https://github.com/arpcard/rgi/releases
+1. *I-VIP*: https://github.com/caozhichongchong/I-VIP
+1. *PlasmidFinder*: https://bitbucket.org/genomicepidemiology/plasmidfinder/src/master/
+1. *PlasmidVerify*: https://github.com/ablab/plasmidVerify
+1. *PhageBoost*: https://github.com/ku-cbd/PhageBoost
+1. *NHMMER*: https://github.com/EddyRivasLab/hmmer
