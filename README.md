@@ -1,5 +1,7 @@
 # GMI-PAN: A bacterial plasmid annotation pipeline
 
+## What is this about?
+
 The emergence of antibiotic resistance is a natural occurrence in microorganisms, but its prevalence in clinically significant strains has been accelerated due to the excessive use of antibiotics in humans and farm animals. The indiscriminate use of antibiotics has been identified as a key factor in the development of multidrug resistance, driven by selective pressure from an ecological perspective.
 
 In this repository, i developed a bioinformatics tool called *"GMI-PAN"*, under the code *"Contannotate"*, for the evaluation and annotation of antibiotic and metal resistance profiles, virulence factors, and mobile genetic elements in assembled nucleotide sequences of prokaryotic nature, optimized for the *Enterobacteriaceae* family. This tool, better known as a wrapper, allows for the automation of an annotation pipeline that integrates various previously developed tools, significantly reducing the time required for work.
@@ -15,7 +17,7 @@ In this repository, i developed a bioinformatics tool called *"GMI-PAN"*, under 
 1. NHMMER 3.3.2
 1. bcbio-gff 0.6.9
 
-### Special thanks!
+## Special thanks!
 
 *GMI-PAN* is based in annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their contribution and please visit their work!
 
