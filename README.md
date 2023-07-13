@@ -30,7 +30,7 @@ In this study *GMI-PAN* was used as an annotation tool for the analyses of plasm
 
 ## Special thanks!
 
-*GMI-PAN* is based in annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their contribution and please checkout their work!
+*GMI-PAN* is based on annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their contribution and please checkout their work!
 
 1. *PROKKA*: https://github.com/tseemann/prokka
 1. *RGI*: https://github.com/arpcard/rgi/releases
