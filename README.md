@@ -45,4 +45,4 @@ This is still an early phase of development software and i'm taking my first div
 - Joaquín Acosta
 - eMAIL: joaquin.acosta@ug.uchile.cl
 
-/miscellaneous/bem_long.png
+![logo](/miscellaneous/bem_long.png)
