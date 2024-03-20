@@ -1,6 +1,6 @@
 # GMI-PAN: A bacterial plasmid annotation pipeline
 
-## Update 03/20/24: Oh, you made it here! Thanks for your interest, I haven't made an annoucement yet but now I'm working as a bioinformatician and learned a lot after my thesis, so I'm sorry for my lack of programming etiquette back then. This first iteration of GMI-PAN will be improved in my free time so stay tuned!. Files appended here are product and evidence of a first functional iteration of GMI-PAN that is part of my thesis defense to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work on this.
+## *Update 03/20/24: Oh, you made it here! Thanks for your interest, I haven't made an annoucement yet but now I'm working as a bioinformatician and learned a lot after my thesis, so I'm sorry for my lack of programming etiquette back then. This first iteration of GMI-PAN will be improved in my free time so stay tuned!. Files appended here are product and evidence of a first functional iteration of GMI-PAN that is part of my thesis defense to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work on this.*
 
 ## What is this about?
 
@@ -23,16 +23,16 @@ In this repository, I developed a bioinformatics tool called *"GMI-PAN"*, for th
 
 ## Installation & Usage
 
-Coming soon...
+*Coming soon...*
 
 ## Colaborations
 
 ### Population genomics, resistance, pathogenic potential, and mobile genetic elements of carbapenem-resistant Klebsiella pneumoniae causing infections in Chile
-*GMI-PAN* was used in this study as an annotation tool for the analysis of plasmids encoding carbapenemases and other resistance determinants. Please take a look at the results! https://doi.org/10.1128/spectrum.00399-23
+GMI-PAN was used in this study as an annotation tool for the analysis of plasmids encoding carbapenemases and other resistance determinants. Please take a look at the results! *https://doi.org/10.1128/spectrum.00399-23*
 
 ## Special thanks!
 
-*GMI-PAN* was currently based on annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their amazing contributions and please checkout their work!
+The first version of GMI-PAN was based on annotation modules such as *PROKKA*, *PlasmidVerify*, *PlasmidFinder*, *RGI*, *PhageBoost*, *NHMMER* and *IVIP*. Thanks to the respective or respectives authors for their amazing contributions and please checkout their work!
 
 1. *PROKKA*: https://github.com/tseemann/prokka
 1. *RGI*: https://github.com/arpcard/rgi/releases
