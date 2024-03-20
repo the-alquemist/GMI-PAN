@@ -1,6 +1,6 @@
 # GMI-PAN: A bacterial plasmid annotation pipeline
 
-## Update 03/20/24: Oh, you made it here! Thanks for your interest, I haven't made an annoucement yet but now I'm working as a bioinformatician and learned a lot after my thesis, so I'm sorry for my lack of programming etiquette back then, this first iteration of GMI-PAN will be improved in my free time so stay tuned!. Files appended here are product and evidence of a first functional iteration of GMI-PAN that is part of my thesis defense to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work on this.
+## Update 03/20/24: Oh, you made it here! Thanks for your interest, I haven't made an annoucement yet but now I'm working as a bioinformatician and learned a lot after my thesis, so I'm sorry for my lack of programming etiquette back then. This first iteration of GMI-PAN will be improved in my free time so stay tuned!. Files appended here are product and evidence of a first functional iteration of GMI-PAN that is part of my thesis defense to obtain the professional academic grade in the Molecular Biotechnology Engineer career. Thanks to *BEM* and *GMI* for giving me the knowledge and space to work on this.
 
 ## What is this about?
 
